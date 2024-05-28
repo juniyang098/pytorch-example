@@ -9,6 +9,8 @@ python main.py
 ```
 The main.py script accepts the following arguments:
 
+
+;;;;;
 ```bash
 optional arguments:
   --batch-size		input batch size for training (default: 128)
