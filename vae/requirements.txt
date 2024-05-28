@@ -1,4 +1,6 @@
+# 나중에 실행할 때 얘네 실행됨
 torch
 torchvision
 tqdm
 six
+pandas
